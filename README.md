@@ -6,7 +6,7 @@ This assessment is designed to test your skills in data manipulation. It include
 
 To get started, complete the setup steps outlined in the section titled "Installation" and then proceed to the challenges listed in "Assessment." The entire assessment should take about 4 hours to complete. Examples are provided in each coding challenge, and helpful resources are listed in the section titled "FAQ."
 
-Each Jupyter notebook in this repository entails a coding challenge for you to solve. For each notebook, there will be a code block that you can use to test your solution. Just be sure to run your solution block before running the test block. 
+Each J  upyter notebook in this repository entails a coding challenge for you to solve. For each notebook, there will be a code block that you can use to test your solution. Just be sure to run your solution block before running the test block. 
 
 Feel free to use documentation and other learning resources. However, resist the urge to copy solutions that you may find online. Remember, the purpose of this assessment is to get a gauge on your fundamentals. If you are unable to implement a fully functioning solution, give it your best shot and leave comments on your thought process.
 
